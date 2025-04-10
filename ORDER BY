@@ -1,0 +1,4 @@
+SELECT *
+FROM students
+WHERE city = 'Rochester'
+ORDER BY birth_date 
