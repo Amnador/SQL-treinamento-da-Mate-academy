@@ -1,6 +1,3 @@
-Today
-Faça um readme no github para mim Aqui eu compartilho com vocês um treinaemnto que fiz na Mate academy SObre SQL Básico Aqui irei compartilhar todos os exercícios que fiz lá. Espero que seja útil para mostrar o quanto sei de SQL.
-Claro! Aqui está um exemplo de README que você pode usar no GitHub para o seu treinamento em SQL Básico:
 
 🚀 Treinamento em SQL Básico - Mate Academy
 Bem-vindo ao meu repositório! 👋 Aqui compartilho os exercícios e aprendizados obtidos durante o treinamento em SQL Básico que realizei na Mate Academy.
